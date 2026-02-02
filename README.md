@@ -1,2 +1,2 @@
-# Lab01-ML
-Lab 01 Machine Program
+# Lab-ML
+Lab Machine Program
